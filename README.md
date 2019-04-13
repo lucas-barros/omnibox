@@ -1,2 +1,2 @@
-# omnibox
-Omnistack box app
+# Omnibox API
+Omnistack box API
